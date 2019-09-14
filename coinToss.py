@@ -2,7 +2,7 @@ import random
 
 money = 100
 
-print("Hello, and welcome to the coin toss game!")
+print("Hello, and welcome to the coin toss game! I hope you're having a lovely day")
 print("What is your name? :")
 name=input()
 print("Hello, "+name)
